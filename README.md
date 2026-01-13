@@ -2,6 +2,9 @@
 
 End-to-end precipitation prediction project using R for data wrangling, visualization, and regression modeling.
 
+## Notebook (Gist)
+https://gist.github.com/MingHuangLab/e181132bbcc23932efde18d64f3255ae
+
 ## Overview
 This project demonstrates an end-to-end workflow for analyzing and predicting daily precipitation using R. It includes data cleaning, exploratory analysis, modeling, and interpretation in a reproducible notebook.
 
